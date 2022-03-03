@@ -1,0 +1,21 @@
+version: '3'
+services:
+  adminer:
+    container_name: adminer
+    restart: always
+    image: adminer
+    ports:
+      - "8080:8080"
+  mariadb:
+    container_name: mariadb
+    restart: always
+    image: mariadb
+    environment:
+      MYSQL_DATABASE: 'fitness_db'
+      MYSQL_USER: 'user'
+      MYSQL_PASSWORD: 'user'
+      MYSQL_ROOT_PASSWORD: 'user'
+    ports:
+      - "3306:3306"
+    volumes:
+      - "./database-volume:/var/lib/mysql"
