@@ -4,6 +4,7 @@ services:
     container_name: fitness_db
     restart: always
     image: mariadb
+    command: --max_allowed_packet=4000M
     environment:
       MYSQL_DATABASE: 'fitness_db'
       MYSQL_USER: 'user'
