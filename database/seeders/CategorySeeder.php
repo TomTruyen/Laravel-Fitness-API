@@ -32,11 +32,7 @@ class CategorySeeder extends Seeder
      */
     public function run()
     {
-        $categories = [];
-
         foreach ($this->categories as $category) {
-            $categories[] = ["name" => $category];
-
             Category::firstOrCreate(
                 ["name" => $category],
             );
