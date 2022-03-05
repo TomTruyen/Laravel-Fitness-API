@@ -1,0 +1,1406 @@
+[
+    {
+       "name":"Ab Wheel",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Arnold Press",
+       "category":"Shoulders",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Around The World",
+       "category":"Chest",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Back Extension",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Back Extension",
+       "category":"Back",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Ball Slams",
+       "category":"Full Body",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Battle Ropes",
+       "category":"Full Body",
+       "equipment": "",
+       "type":"time"
+    },
+    {
+       "name":"Bench Dip",
+       "category":"Triceps",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Bench Press",
+       "category":"Chest",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bench Press",
+       "category":"Chest",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bench Press",
+       "category":"Chest",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Bench Press - Close Grip",
+       "category":"Chest",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bench Press - Wide Grip",
+       "category":"Chest",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bent Over Row",
+       "category":"Back",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bent Over Row",
+       "category":"Back",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bent Over Row",
+       "category":"Back",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Bent Over Row - Underhand",
+       "category":"Back",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bicep Curl",
+       "category":"Biceps",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Bicep Curl",
+       "category":"Biceps",
+       "equipment":"EZ Bar",
+       "type":"weight"
+    },
+    {
+       "name":"Bicep Curl",
+       "category":"Biceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bicep Curl",
+       "category":"Biceps",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bicep Curl",
+       "category":"Biceps",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Bicycle Crunch",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Box Jump",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Box Squat",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Bulgarian Split Squat",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Bulgarian Split Squat",
+       "category":"Legs",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Burpee",
+       "category":"Full Body",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Cable Crossover",
+       "category":"Chest",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Cable Crunch",
+       "category":"Core",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Cable Kickback",
+       "category":"Triceps",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Cable Pull Through",
+       "category":"Legs",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Cable Twist",
+       "category":"Core",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Calf Press on Leg Press",
+       "category":"Calves",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Calf Press on Seated Leg Press",
+       "category":"Calves",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Chest Dip",
+       "category":"Chest",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Chess Dip (Assisted)",
+       "category":"Chest",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Chest Fly",
+       "category":"Chest",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Chest Fly",
+       "category":"Chest",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Chest Fly",
+       "category":"Chest",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Chest Fly",
+       "category":"Chest",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Chest Press",
+       "category":"Chest",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Chin Up",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Chin Up (Assisted)",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Clean",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Clean and Jerk",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Concentration Curl",
+       "category":"Biceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Cross Body Crunch",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Crunch",
+       "category":"Core",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Crunch",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Crunch (Stability Ball)",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Cycling",
+       "category":"Cardio",
+       "equipment": "",
+       "type":"time"
+    },
+    {
+       "name":"Deadlift",
+       "category":"Back",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Deadlift",
+       "category":"Back",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Deadlift",
+       "category":"Back",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Deadlift High Pull",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Decline Bench Press",
+       "category":"Chest",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Decline Bench Press",
+       "category":"Chest",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Decline Crunch",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Deficit Deadlift",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Diamond Push Up",
+       "category":"Triceps",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Elliptical Machine",
+       "category":"Cardio",
+       "equipment": "",
+       "type":"time"
+    },
+    {
+       "name":"Face Pull",
+       "category":"Back",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Flat Knee Raise",
+       "category":"Core",
+       "equipment": "" ,
+       "type":"weight"
+    },
+    {
+       "name":"Flat Leg Raise",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Front Raise",
+       "category":"Shoulders",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Front Raise",
+       "category":"Shoulders",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Front Raise",
+       "category":"Shoulders",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Front Raise",
+       "category":"Shoulders",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Front Raise",
+       "category":"Shoulders",
+       "equipment":"Plate",
+       "type":"weight"
+    },
+    {
+       "name":"Front Squat",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Goblet Squat",
+       "category":"Legs",
+       "equipment":"Kettlebell",
+       "type":"weight"
+    },
+    {
+       "name":"Good Morning",
+       "category":"Back",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Hack Squat",
+       "category":"Legs",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Hammer Curl",
+       "category":"Biceps",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Hammer Curl",
+       "category":"Biceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Hammer Curl",
+       "category":"Biceps",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Handstand Push Up",
+       "category":"Shoulders",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Hang Snatch",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Hanging Knee Raise",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Hanging Leg Raise",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"High Knee Skips",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Hip Abductor",
+       "category":"Legs",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Hip Adductor",
+       "category":"Legs",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Hip Thrust",
+       "category":"Glutes",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Hip Thrust",
+       "category":"Glutes",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Incline Bench Press",
+       "category":"Chest",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Incline Bench Press",
+       "category":"Chest",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Incline Bench Press",
+       "category":"Chest",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Incline Chest Fly",
+       "category":"Chest",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Incline Chest Press",
+       "category":"Chest",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Incline Curl",
+       "category":"Biceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Incline Row",
+       "category":"Back",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Inverted Row",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Iso-Lateral Chest Press",
+       "category":"Chest",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Iso-Lateral Row",
+       "category":"Back",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Jackknife Sit Up",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Jump Rope",
+       "category":"Cardio",
+       "equipment": "",
+       "type":"time"
+    },
+    {
+       "name":"Jump Squat",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Jumping Jack",
+       "category":"Full Body",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Kettlebell Swing",
+       "category":"Full Body",
+       "equipment":"Kettlebell",
+       "type":"weight"
+    },
+    {
+       "name":"Knee Raise (Captain's Chair)",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Kneeling Pulldown",
+       "category":"Back",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Knees to Elbows",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Lat Pulldown",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Lat Pulldown",
+       "category":"Machine",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Lat Pulldown - Single Arm",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Lat Pulldown - Underhand",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Lat Pulldown - Wide Grip",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Lateral Box Jump",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Lateral Raise",
+       "category":"Shoulders",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Lateral Raise",
+       "category":"Shoulders",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Lateral Raise",
+       "category":"Shoulders",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Lateral Raise",
+       "category":"Shoulders",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Leg Curl",
+       "category":"Legs",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Leg Extension",
+       "category":"Legs",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Lunge",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Lunge",
+       "category":"Legs",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Lunge",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Lying Leg Curl",
+       "category":"Legs",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Mountain Climber",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Oblique Crunch",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Muscle Up",
+       "category":"Full Body",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Overhead Press",
+       "category":"Shoulders",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Overhead Press",
+       "category":"Shoulders",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Overhead Press",
+       "category":"Shoulders",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Overhead Press",
+       "category":"Shoulders",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Overhead Squat",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Overhead Triceps Extension",
+       "category":"Triceps",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Pec Deck",
+       "category":"Chest",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Pendlay Row",
+       "category":"Back",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Pistol Squat",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Plank",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Power Clean",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Power Snatch",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Preacher Curl",
+       "category":"Biceps",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Preacher Curl",
+       "category":"Biceps",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Preacher Curl",
+       "category":"Biceps",
+       "equipment":"EZ Bar",
+       "type":"weight"
+    },
+    {
+       "name":"Preacher Curl",
+       "category":"Biceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Press Under",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Pull Up",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Pull Up",
+       "category":"Back",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Pull Up - Assisted",
+       "category":"Back",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Pull Up - Wide Grip",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Pullover",
+       "category":"Chest",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Pullover",
+       "category":"Chest",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Pulse Squat",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Push Press",
+       "category":"Shoulders",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Push Up",
+       "category":"Chest",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Push Up - Knees",
+       "category":"Chest",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Rack Pull",
+       "category":"Back",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Crunch",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Curl",
+       "category":"Biceps",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Curl",
+       "category":"Biceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Curl",
+       "category":"Biceps",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Fly",
+       "category":"Back",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Fly",
+       "category":"Back",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Fly",
+       "category":"Back",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Grip Concentration Curl",
+       "category":"Biceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Lunge",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Lunge",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Lunge",
+       "category":"Legs",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Reverse Plank",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Romanian Deadlift",
+       "category":"Back",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Romanian Deadlift",
+       "category":"Back",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Rowing",
+       "category":"Cardio",
+       "equipment": "",
+       "type":"time"
+    },
+    {
+       "name":"Running",
+       "category":"Cardio",
+       "equipment": "",
+       "type":"time"
+    },
+    {
+       "name":"Russian Twist",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Calf Raise",
+       "category":"Calves",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Calf Raise",
+       "category":"Calves",
+       "equipment":"Plate Loaded",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Leg Curl",
+       "category":"Legs",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Leg Press",
+       "category":"Legs",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Overhead Press",
+       "category":"Shoulders",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Overhead Press",
+       "category":"Shoulders",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Palms Up Wrist Curl",
+       "category":"Forearms",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Row",
+       "category":"Back",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Row",
+       "category":"Back",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Seated Row - Wide Grip",
+       "category":"Back",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Shoulder Press",
+       "category":"Shoulders",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Shoulder Press",
+       "category":"Shoulders",
+       "equipment":"Plate Loaded",
+       "type":"weight"
+    },
+    {
+       "name":"Shrug",
+       "category":"Shoulders",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Shrug",
+       "category":"Shoulders",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Shrug",
+       "category":"Shoulders",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Side Bend",
+       "category":"Core",
+       "equipment":"Band",
+       "type":"weight"
+    },
+    {
+       "name":"Side Bend",
+       "category":"Core",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Side Bend",
+       "category":"Core",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Side Plank",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Single Leg Bridge",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Sit Ups",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Skullcrusher",
+       "category":"Triceps",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Skullcrusher",
+       "category":"Triceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Snatch",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Snatch Pull",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Split Jerk",
+       "category":"Olympic",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Squat",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Squat",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Squat - Elevated Heels",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Squat",
+       "category":"Legs",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Squat Steps",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Standing Calf Raise",
+       "category":"Calves",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Standing Calf Raise",
+       "category":"Calves",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Standing Calf Raise",
+       "category":"Calves",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Standing Calf Raise",
+       "category":"Calves",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Step-Up",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Stiff Leg Deadlift",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Stiff Leg Deadlift",
+       "category":"Legs",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Straight Arm Pulldown",
+       "category":"Back",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Stretching",
+       "category":"Other",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Strict Military Press",
+       "category":"Shoulders",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Sumo Deadlift",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Sumo Deadlift High Pull",
+       "category":"Full Body",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Superman",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"T Bar Row",
+       "category":"Back",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Thruster",
+       "category":"Full Body",
+       "equipment":"Kettlebell",
+       "type":"weight"
+    },
+    {
+       "name":"Thruster",
+       "category":"Full Body",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Toes To Bar",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Torso Rotation",
+       "category":"Core",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Trap Bar Deadlift",
+       "category":"Legs",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Triceps Dip",
+       "category":"Triceps",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Triceps Dip - Assisted",
+       "category":"Triceps",
+       "equipment":"Machine",
+       "type":"weight"
+    },
+    {
+       "name":"Triceps Extension",
+       "category":"Triceps",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Triceps Extension",
+       "category":"Triceps",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Triceps Extension",
+       "category":"Triceps",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Triceps Extension",
+       "category":"Triceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Triceps Extension - Single Arm",
+       "category":"Triceps",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"Triceps Pushdown",
+       "category":"Triceps",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Turkish Get Up",
+       "category":"Full Body",
+       "equipment":"Kettlebell",
+       "type":"weight"
+    },
+    {
+       "name":"Upright Row",
+       "category":"Shoulders",
+       "equipment":"Barbell",
+       "type":"weight"
+    },
+    {
+       "name":"Upright Row",
+       "category":"Shoulders",
+       "equipment":"Cable",
+       "type":"weight"
+    },
+    {
+       "name":"Upright Row",
+       "category":"Shoulders",
+       "equipment":"Dumbbell",
+       "type":"weight"
+    },
+    {
+       "name":"V Up",
+       "category":"Core",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Walking",
+       "category":"Cardio",
+       "equipment": "",
+       "type":"time"
+    },
+    {
+       "name":"Wrist Roller",
+       "category":"Forearms",
+       "equipment": "",
+       "type":"weight"
+    },
+    {
+       "name":"Zercher Squat",
+       "category":"Legs",
+       "equipment":"Barbell",
+       "type":"weight"
+    }
+ ]
