@@ -2,3 +2,10 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+.google-blue {
+    background: #4285f4;
+}
+
+.google-blue:hover {
+    opacity: 0.8;
+}

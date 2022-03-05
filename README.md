@@ -43,6 +43,8 @@ Create docker containers with the **database** and **adminer**
 
 `php artisan serve`
 
+`npm run watch`
+
 # Troubleshooting
 
 ## Route not found
