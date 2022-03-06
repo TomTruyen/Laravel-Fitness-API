@@ -16,10 +16,6 @@ class HasReadPermission
      */
     public function handle(Request $request, Closure $next)
     {
-        error_log($request->user()->tokenCan('read'));
-        error_log($request->user()->tokenCan('save'));
-        error_log($request->user()->tokenCan('delete'));
-
         if(!$request->user()->tokenCan('read')) {
             return response()->json([
                 'message' => 'Missing permission: \'read\'',
