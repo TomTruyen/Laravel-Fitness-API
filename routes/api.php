@@ -17,7 +17,7 @@ use Illuminate\Support\Facades\Request;
 |
 */
 
-Route::middleware(['auth:sanctum', 'throttle:10'])->group(function() {
+Route::middleware(['auth:sanctum', 'throttle:1'])->group(function() {
     // Read routes
     Route::middleware('read')->group(function() {
         Route::group(['prefix'  =>  'exercises'], function () {
