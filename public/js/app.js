@@ -23319,13 +23319,13 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
           key: permission
         }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_jet_checkbox, {
           value: permission,
-          modelValue: _ctx.createApiTokenForm.permissions,
-          "onUpdate:modelValue": _cache[1] || (_cache[1] = function ($event) {
+          checked: _ctx.createApiTokenForm.permissions,
+          "onUpdate:checked": _cache[1] || (_cache[1] = function ($event) {
             return _ctx.createApiTokenForm.permissions = $event;
           })
         }, null, 8
         /* PROPS */
-        , ["value", "modelValue"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(permission), 1
+        , ["value", "checked"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(permission), 1
         /* TEXT */
         )])]);
       }), 128
@@ -23453,13 +23453,13 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
           key: permission
         }, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("label", _hoisted_25, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_jet_checkbox, {
           value: permission,
-          modelValue: _ctx.updateApiTokenForm.permissions,
-          "onUpdate:modelValue": _cache[4] || (_cache[4] = function ($event) {
+          checked: _ctx.updateApiTokenForm.permissions,
+          "onUpdate:checked": _cache[4] || (_cache[4] = function ($event) {
             return _ctx.updateApiTokenForm.permissions = $event;
           })
         }, null, 8
         /* PROPS */
-        , ["value", "modelValue"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", _hoisted_26, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(permission), 1
+        , ["value", "checked"]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", _hoisted_26, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)(permission), 1
         /* TEXT */
         )])]);
       }), 128
