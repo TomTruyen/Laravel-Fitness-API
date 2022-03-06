@@ -16,7 +16,7 @@ use App\Http\Controllers\ExerciseController;
 |
 */
 
-Route::middleware('auth:sanctum')->group(function() {
+Route::middleware(['auth:sanctum', 'abilities:read'])->group(function() {
     Route::group(['prefix'  =>  'exercises'], function () {
         Route::get('/', [ExerciseController::class, 'index']);
         Route::get('/{id}', [ExerciseController::class, 'show']);
