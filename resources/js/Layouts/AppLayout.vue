@@ -22,6 +22,10 @@
                                 <jet-nav-link :href="route('dashboard')" :active="route().current('dashboard')">
                                     Dashboard
                                 </jet-nav-link>
+
+                                <jet-nav-link :href="route('api-tokens.index')" :active="route().current('api-tokens.index')" v-if="$page.props.jetstream.hasApiFeatures">
+                                    API Tokens
+                                </jet-nav-link>
                             </div>
                         </div>
 
@@ -110,9 +114,9 @@
                                             Profile
                                         </jet-dropdown-link>
 
-                                        <jet-dropdown-link :href="route('api-tokens.index')" v-if="$page.props.jetstream.hasApiFeatures">
+                                        <!-- <jet-dropdown-link :href="route('api-tokens.index')" v-if="$page.props.jetstream.hasApiFeatures">
                                             API Tokens
-                                        </jet-dropdown-link>
+                                        </jet-dropdown-link> -->
 
                                         <div class="border-t border-gray-100"></div>
 
@@ -165,9 +169,9 @@
                                 Profile
                             </jet-responsive-nav-link>
 
-                            <jet-responsive-nav-link :href="route('api-tokens.index')" :active="route().current('api-tokens.index')" v-if="$page.props.jetstream.hasApiFeatures">
+                            <!-- <jet-responsive-nav-link :href="route('api-tokens.index')" :active="route().current('api-tokens.index')" v-if="$page.props.jetstream.hasApiFeatures">
                                 API Tokens
-                            </jet-responsive-nav-link>
+                            </jet-responsive-nav-link> -->
 
                             <!-- Authentication -->
                             <form method="POST" @submit.prevent="logout">
