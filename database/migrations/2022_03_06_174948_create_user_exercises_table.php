@@ -19,6 +19,7 @@ class CreateUserExercisesTable extends Migration
             $table->string('category');
             $table->string('equipment');
             $table->string('type');
+            $table->string('owner_id')->index();
             $table->string('user_id')->index();
             $table->timestamps();
         });

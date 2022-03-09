@@ -10,13 +10,13 @@ class UserExerciseController extends Controller
 {
     public function index(string $userId)
     {
-        return UserExercise::where('user_id', '=', $userId)->get();
+        return UserExercise::where('user_id', '=', $userId, 'and')->where('owner_id', '=', auth()->user()->id)->get();
     }
 
     public function search(Request $request, string $userId) {
         $search = strip_tags($request->input('name'));
 
-        return UserExercise::where('user_id', '=', $userId, 'and')->where('name', 'like', '%'.$search.'%')->get();
+        return UserExercise::where('user_id', '=', $userId, 'and')->where('owner_id', '=', auth()->user()->id, 'and')->where('name', 'like', '%'.$search.'%')->get();
     }
 
     public function save(Request $request, string $userId) {
@@ -38,13 +38,13 @@ class UserExerciseController extends Controller
         $validated = $validator->validated();
         $validated = $validator->safe()->all();
 
-        $findModel = !isset($validated['id']) ? ['user_id' => $userId] : ['user_id' => $userId, 'id' => $validated['id']];
+        $findModel = !isset($validated['id']) ? ['user_id' => $userId, 'owner_id' => auth()->user()->id] : ['user_id' => $userId, 'id' => $validated['id'], 'owner_id' => auth()->user()->id];
 
         return UserExercise::updateOrCreate($findModel, $validated);
     }
 
     public function delete(string $userId, int $id) {
-        $exercise = UserExercise::where('user_id', '=', $userId, 'and')->where('id', '=', $id)->first();
+        $exercise = UserExercise::where('user_id', '=', $userId, 'and')->where('owner_id', '=', auth()->user()->id, 'and')->where('id', '=', $id)->first();
 
         if($exercise == null) {
             return response()->json([
