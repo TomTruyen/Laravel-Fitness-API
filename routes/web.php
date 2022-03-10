@@ -16,14 +16,14 @@ use Illuminate\Foundation\Application;
 */
 
 Route::get('/', function () {
-    return Inertia::render('Welcome', [
+    return Inertia::render('Documentation', [
         'canLogin' => Route::has('login'),
         'canRegister' => Route::has('register'),
         'laravelVersion' => Application::VERSION,
         'phpVersion' => PHP_VERSION,
     ]);
-});
+})->name('documentation');
 
-Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
-    return Inertia::render('Dashboard');
-})->name('dashboard');
+// Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+//     return Inertia::render('Dashboard');
+// })->name('dashboard');
