@@ -11,14 +11,14 @@
                     <div class="flex justify-between h-16">
                         <div class="flex">
                             <!-- Logo -->
-                            <div class="shrink-0 flex items-center">
+                            <!-- <div class="shrink-0 flex items-center">
                                 <Link :href="route('documentation')">
                                     <jet-application-mark class="block h-9 w-auto" />
                                 </Link>
-                            </div>
+                            </div> -->
 
                             <!-- Navigation Links -->
-                            <div class="hidden space-x-8 sm:-my-px sm:ml-10 sm:flex">
+                            <div class="hidden space-x-8 sm:-my-px sm:flex">
                                 <jet-nav-link :href="route('documentation')" :active="route().current('documentation')">
                                     Documentation
                                 </jet-nav-link>
@@ -131,6 +131,19 @@
                             </div>
                         </div>
 
+                        <div class="flex" v-else>
+                            <!-- Navigation Links -->
+                            <div class="hidden space-x-8 sm:-my-px sm:flex">
+                                <jet-nav-link :href="route('login')" v-if="canLogin">
+                                    Sign in
+                                </jet-nav-link>
+
+                                <jet-nav-link :href="route('register')" v-if="canRegister">
+                                    Sign up
+                                </jet-nav-link>
+                            </div>
+                        </div>
+
                         <!-- Hamburger -->
                         <div class="-mr-2 flex items-center sm:hidden">
                             <button @click="showingNavigationDropdown = ! showingNavigationDropdown" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition">
@@ -221,11 +234,11 @@
             </nav>
 
             <!-- Page Heading -->
-            <header class="bg-white shadow" v-if="$slots.header">
+            <!-- <header class="bg-white shadow" v-if="$slots.header">
                 <div class="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
                     <slot name="header"></slot>
                 </div>
-            </header>
+            </header> -->
 
             <!-- Page Content -->
             <main>
@@ -237,6 +250,7 @@
 
 <script>
     import { defineComponent } from 'vue'
+    import JetButton from '@/Jetstream/Button.vue'
     import JetApplicationMark from '@/Jetstream/ApplicationMark.vue'
     import JetBanner from '@/Jetstream/Banner.vue'
     import JetDropdown from '@/Jetstream/Dropdown.vue'
@@ -248,10 +262,13 @@
     export default defineComponent({
         props: {
             title: String,
+            canLogin: Boolean,
+            canRegister: Boolean,
         },
 
         components: {
             Head,
+            JetButton,
             JetApplicationMark,
             JetBanner,
             JetDropdown,
