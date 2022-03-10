@@ -23,7 +23,7 @@
                                     Documentation
                                 </jet-nav-link>
 
-                                <jet-nav-link :href="route('api-tokens.index')" :active="route().current('api-tokens.index')" v-if="$page.props.jetstream.hasApiFeatures">
+                                <jet-nav-link :href="route('api-tokens.index')" :active="route().current('api-tokens.index')" v-if="$page.props.jetstream.hasApiFeatures && $page.props.user">
                                     API Tokens
                                 </jet-nav-link>
                             </div>
