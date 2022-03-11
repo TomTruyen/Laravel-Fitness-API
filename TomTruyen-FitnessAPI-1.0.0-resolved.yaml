@@ -1,0 +1,355 @@
+---
+openapi: 3.0.0
+info:
+  title: Fitness API
+  description: |
+    An API for developers to have easy access to a basic list of fitness exercises, equipments and categories.
+
+    If you are missing an exercise let me know by contacting me and I'll add it to the list :)
+  contact:
+    email: tom.truyen@gmail.com
+  version: 1.0.0
+servers:
+  - url: https://api.tomtruyen.dev
+tags:
+  - name: Exercises
+    description: Exercise database endpoints
+  - name: Categories
+    description: Category endpoints
+  - name: Equipment
+    description: Equipment endpoints
+paths:
+  /v1/exercises:
+    get:
+      tags:
+        - Exercises
+      summary: Get exercises
+      operationId: exercises
+      parameters:
+        - name: name
+          in: query
+          description: Search value for the exercise name (can be a partial value)
+          required: false
+          style: form
+          explode: true
+          schema:
+            type: string
+        - name: category
+          in: query
+          description: Filter by category (must be a valid category)
+          required: false
+          style: form
+          explode: true
+          schema:
+            type: string
+        - name: equipment
+          in: query
+          description: Filter by equipment (must be a valid category)
+          required: false
+          style: form
+          explode: true
+          schema:
+            type: string
+        - name: limit
+          in: query
+          description: Limit per page (max. 50)
+          required: false
+          style: form
+          explode: true
+          schema:
+            maximum: 50
+            minimum: 1
+            type: integer
+        - name: skip
+          in: query
+          description: Skip x items
+          required: false
+          style: form
+          explode: true
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Exercises"
+        "401":
+          description: Unauthenticated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Unauthenticated"
+        "500":
+          description: Server error
+      security:
+        - bearerAuth: []
+  /v1/exercises/{id}:
+    get:
+      tags:
+        - Exercises
+      summary: Get exercise by id
+      operationId: exercise_id
+      parameters:
+        - name: id
+          in: path
+          description: Id of exercise
+          required: true
+          style: simple
+          explode: false
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Exercise"
+        "401":
+          description: Unauthenticated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Unauthenticated"
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/NotFound"
+        "500":
+          description: Server error
+      security:
+        - bearerAuth: []
+  /v1/categories:
+    get:
+      tags:
+        - Categories
+      summary: Get categories
+      operationId: categories
+      parameters:
+        - name: name
+          in: query
+          description: Search value for the category name (can be a partial value)
+          required: false
+          style: form
+          explode: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Categories"
+        "401":
+          description: Unauthenticated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Unauthenticated"
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/NotFound"
+        "500":
+          description: Server error
+      security:
+        - bearerAuth: []
+  /v1/categories/{id}:
+    get:
+      tags:
+        - Categories
+      summary: Get categories by id
+      operationId: category_id
+      parameters:
+        - name: id
+          in: path
+          description: Id of category
+          required: true
+          style: simple
+          explode: false
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Category"
+        "401":
+          description: Unauthenticated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Unauthenticated"
+        "500":
+          description: Server error
+      security:
+        - bearerAuth: []
+  /v1/equipment:
+    get:
+      tags:
+        - Equipment
+      summary: Get equipment
+      operationId: equipment
+      parameters:
+        - name: name
+          in: query
+          description: Search value for the equipment name (can be a partial value)
+          required: false
+          style: form
+          explode: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Equipments"
+        "401":
+          description: Unauthenticated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Unauthenticated"
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/NotFound"
+        "500":
+          description: Server error
+      security:
+        - bearerAuth: []
+  /v1/equipment/{id}:
+    get:
+      tags:
+        - Equipment
+      summary: Get equipment by id
+      operationId: equipment_id
+      parameters:
+        - name: id
+          in: path
+          description: Id of equipment
+          required: true
+          style: simple
+          explode: false
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Equipment"
+        "401":
+          description: Unauthenticated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Unauthenticated"
+        "500":
+          description: Server error
+      security:
+        - bearerAuth: []
+components:
+  schemas:
+    Exercises:
+      type: object
+      properties:
+        exercises:
+          type: array
+          description: List of exercises
+          items:
+            $ref: "#/components/schemas/Exercise"
+        count:
+          type: integer
+          description: Amount of items returned
+          example: 1
+    Exercise:
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 1
+        name:
+          type: string
+          example: Ab Wheel
+        category:
+          type: string
+          example: Core
+        equipment:
+          type: string
+          example: None
+        type:
+          type: string
+          example: weight
+    Categories:
+      type: object
+      properties:
+        exercises:
+          type: array
+          description: List of categories
+          items:
+            $ref: "#/components/schemas/Category"
+        count:
+          type: integer
+          description: Amount of items returned
+          example: 1
+    Equipment:
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 1
+        name:
+          type: string
+          example: Band
+    Equipments:
+      type: object
+      properties:
+        exercises:
+          type: array
+          description: List of equipment
+          items:
+            $ref: "#/components/schemas/Equipment"
+        count:
+          type: integer
+          description: Amount of items returned
+          example: 1
+    Category:
+      type: object
+      properties:
+        id:
+          type: integer
+          example: 1
+        name:
+          type: string
+          example: Back
+    Unauthenticated:
+      type: object
+      properties:
+        message:
+          type: string
+          example: Unauthenticated
+    NotFound:
+      type: object
+      properties:
+        message:
+          type: string
+          example: Not found
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
