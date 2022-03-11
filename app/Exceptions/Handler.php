@@ -7,6 +7,7 @@ use Throwable;
 use Illuminate\Auth\AuthenticationException;
 use Illuminate\Http\Exceptions\ThrottleRequestsException;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
+use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 
 class Handler extends ExceptionHandler
 {
@@ -44,11 +45,15 @@ class Handler extends ExceptionHandler
 
     public function render($request, Throwable $exception)
     {
+        if($exception instanceof NotFoundHttpException) {
+            return response()->json(['message' => 'Not found'], 404);
+        }
+
         if ($exception instanceof ThrottleRequestsException) {
             return response()->json(['message' => 'Too many requests'], 429);
         }
 
-        return parent::render($request, $exception);
+        return response()->json(['message' => 'Oops! Something went wrong'], 500);
     }
 
     protected function unauthenticated($request, AuthenticationException $exception)
