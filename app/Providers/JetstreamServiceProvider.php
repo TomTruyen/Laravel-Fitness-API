@@ -42,8 +42,8 @@ class JetstreamServiceProvider extends ServiceProvider
         Jetstream::permissions([
             // 'create',
             'read',
-            'save',
-            'delete',
+            // 'save',
+            // 'delete',
         ]);
     }
 }

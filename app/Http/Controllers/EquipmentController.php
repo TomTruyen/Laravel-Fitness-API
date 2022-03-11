@@ -4,22 +4,29 @@ namespace App\Http\Controllers;
 
 use App\Models\Equipment;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 
 class EquipmentController extends Controller
 {
 
-    public function index()
-    {
-        return Equipment::all();
+    public function index(Request $request) {
+        $name = $request->input('name');
+
+        $query = DB::table('equipment')->orderBy('name');
+
+        if($name) {
+            $query->where('name', 'like', '%'.$name.'%');
+        }
+
+        $equipment = $query->get();
+
+        return response()->json([
+            'equipment' => $equipment,
+            'count' => count($equipment),
+        ]);
     }
 
     public function show(int $id) {
         return Equipment::find($id);
-    }
-
-    public function search(Request $request) {
-        $search = strip_tags($request->input('name'));
-
-        return Equipment::where('name', 'like', '%'.$search.'%')->get();
     }
 }
