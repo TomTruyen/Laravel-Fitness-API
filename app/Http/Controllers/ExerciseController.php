@@ -43,6 +43,14 @@ class ExerciseController extends Controller
     }
 
     public function show(int $id) {
-        return Exercise::find($id);
+        $exercise = Exercise::find($id);
+
+        if($exercise == null) {
+            return response()->json([
+                'message' => 'Not found'
+            ], 404);
+        }
+
+        return $exercise;
     }
 }

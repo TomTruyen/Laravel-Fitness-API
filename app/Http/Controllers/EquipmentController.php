@@ -27,6 +27,14 @@ class EquipmentController extends Controller
     }
 
     public function show(int $id) {
-        return Equipment::find($id);
+        $equipment = Equipment::find($id);
+
+        if($equipment == null) {
+            return response()->json([
+                'message' => 'Not found'
+            ], 404);
+        }
+
+        return $equipment;
     }
 }
