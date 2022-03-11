@@ -19,6 +19,10 @@ class ExerciseSeeder extends Seeder
         $exercises = json_decode(File::get("database/data/exercises.json"), true);
 
         foreach ($exercises as $exercise) {
+            if($exercise['equipment'] == '' || $exercise['equipment'] == null) {
+                $exercise['equipment'] = "None";
+            }
+
             Exercise::firstOrCreate(
                 [
                     'name' => $exercise['name'],
