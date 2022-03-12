@@ -53,4 +53,37 @@ class ExerciseController extends Controller
 
         return $exercise;
     }
+
+    /**
+     * Get avatar image by user_id
+     *
+     * @param string $image
+     *
+     * @return Response
+     */
+    public function image(Request $request, int $id) {
+        $exercise = Exercise::find($id);
+
+        if($exercise == null) {
+            return response()->json([
+                'message' => 'Exercise not found',
+            ], 404);
+        }
+
+        $detail = $request->query('detail', false);
+
+        if($detail) {
+            $path = storage_path("app/Exercises/$exercise->image_detail");
+        } else {
+            $path = storage_path("app/Exercises/$exercise->image");
+        }
+
+        if(!file_exists($path)) {
+            return response()->json([
+                'message' => 'Image not found',
+            ], 404);
+        }
+
+        return response()->file($path);
+    }
 }

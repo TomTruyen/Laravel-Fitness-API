@@ -3,1404 +3,1760 @@
        "name":"Ab Wheel",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"abwheel.png",
+       "image_detail":"abwheel-detail.jpg"
     },
     {
        "name":"Arnold Press",
        "category":"Shoulders",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"arnoldpressdb.png",
+       "image_detail":"arnoldpressdb-detail.jpg"
     },
     {
        "name":"Around The World",
        "category":"Chest",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"aroundtheworld.png",
+       "image_detail":"aroundtheworld-detail.jpg"
     },
     {
        "name":"Back Extension",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"backextension.png",
+       "image_detail":"backextension-detail.jpg"
     },
     {
        "name":"Back Extension",
        "category":"Back",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"backextensionmachine.png",
+       "image_detail":"backextensionmachine-detail.jpg"
     },
     {
        "name":"Ball Slams",
        "category":"Full Body",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"ballslams.png",
+       "image_detail":"ballslams-detail.jpg"
     },
     {
        "name":"Battle Ropes",
        "category":"Full Body",
        "equipment": "",
-       "type":"time"
+       "type":"time",
+       "image":"battleropes.png",
+       "image_detail":"battleropes-detail.jpg"
     },
     {
        "name":"Bench Dip",
        "category":"Triceps",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"benchdip.png",
+       "image_detail":"benchdip-detail.jpg"
     },
     {
        "name":"Bench Press",
        "category":"Chest",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"benchpressbb.png",
+       "image_detail":"benchpressbb-detail.jpg"
     },
     {
        "name":"Bench Press",
        "category":"Chest",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"benchpressdb.png",
+       "image_detail":"benchpressdb-detail.jpg"
     },
     {
        "name":"Bench Press",
        "category":"Chest",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"benchpresscable.png",
+       "image_detail":"benchpresscable-detail.jpg"
     },
     {
        "name":"Bench Press - Close Grip",
        "category":"Chest",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"benchpressclosegripbb.png",
+       "image_detail":"benchpressclosegripbb-detail.jpg"
     },
     {
        "name":"Bench Press - Wide Grip",
        "category":"Chest",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"benchpresswidegrip.png",
+       "image_detail":"benchpresswidegrip-detail.jpg"
     },
     {
        "name":"Bent Over Row",
        "category":"Back",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"bentoverrowbb.png",
+       "image_detail":"bentoverrowbb-detail.jpg"
     },
     {
        "name":"Bent Over Row",
        "category":"Back",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"bentoverrowdb.png",
+       "image_detail":"bentoverrowdb-detail.jpg"
     },
     {
        "name":"Bent Over Row",
        "category":"Back",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"bentoverrowband.png",
+       "image_detail":"bentoverrowband-detail.jpg"
     },
     {
        "name":"Bent Over Row - Underhand",
        "category":"Back",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"bentoverrowunderhandbb.png",
+       "image_detail":"bentoverrowunderhandbb-detail.jpg"
     },
     {
        "name":"Bicep Curl",
        "category":"Biceps",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"bicepcurlmachine.png",
+       "image_detail":"bicepcurlmachine-detail.jpg"
     },
     {
        "name":"Bicep Curl",
        "category":"Biceps",
        "equipment":"EZ Bar",
-       "type":"weight"
+       "type":"weight",
+       "image":"ezbarcurl.png",
+       "image_detail":"ezbarcurl-detail.jpg"
     },
     {
        "name":"Bicep Curl",
        "category":"Biceps",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"bicepcurldb.png",
+       "image_detail":"bicepcurldb-detail.jpg"
     },
     {
        "name":"Bicep Curl",
        "category":"Biceps",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"bicepcurlbb.png",
+       "image_detail":"bicepcurlbb-detail.jpg"
     },
     {
        "name":"Bicep Curl",
        "category":"Biceps",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"bicepcurlcable.png",
+       "image_detail":"bicepcurlcable-detail.jpg"
     },
     {
        "name":"Bicycle Crunch",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"bicyclecrunch.png",
+       "image_detail":"bicyclecrunch-detail.jpg"
     },
     {
        "name":"Box Jump",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"boxjump.png",
+       "image_detail":"boxjump-detail.jpg"
     },
     {
        "name":"Box Squat",
        "category":"Legs",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"boxsquat.png",
+       "image_detail":"boxsquat-detail.jpg"
     },
     {
        "name":"Bulgarian Split Squat",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"bulgariansplitsquat.png",
+       "image_detail":"bulgariansplitsquat-detail.jpg"
     },
     {
        "name":"Bulgarian Split Squat",
        "category":"Legs",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"bulgariansplitsquat.png",
+       "image_detail":"bulgariansplitsquat-detail.jpg"
     },
     {
        "name":"Burpee",
        "category":"Full Body",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"burpee.png",
+       "image_detail":"burpee-detail.jpg"
     },
     {
        "name":"Cable Crossover",
        "category":"Chest",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"cablecrossover.png",
+       "image_detail":"cablecrossover-detail.jpg"
     },
     {
        "name":"Cable Crunch",
        "category":"Core",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"cablecrunch.png",
+       "image_detail":"cablecrunch-detail.jpg"
     },
     {
        "name":"Cable Kickback",
        "category":"Triceps",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"cablekickback.png",
+       "image_detail":"cablekickback-detail.jpg"
     },
     {
        "name":"Cable Pull Through",
        "category":"Legs",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"cablepullthrough.png",
+       "image_detail":"cablepullthrough-detail.jpg"
     },
     {
        "name":"Cable Twist",
        "category":"Core",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"cabletwist.png",
+       "image_detail":"cabletwist-detail.jpg"
     },
     {
        "name":"Calf Press on Leg Press",
        "category":"Calves",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"calfpressonlegpress.png",
+       "image_detail":"calfpressonlegpress-detail.jpg"
     },
     {
        "name":"Calf Press on Seated Leg Press",
        "category":"Calves",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"calfpressonseatedlegpress.png",
+       "image_detail":"calfpressonseatedlegpress-detail.jpg"
     },
     {
        "name":"Chest Dip",
        "category":"Chest",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"chestdip.png",
+       "image_detail":"chestdip-detail.jpg"
     },
     {
        "name":"Chess Dip (Assisted)",
        "category":"Chest",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"chestdipassisted.png",
+       "image_detail":"chestdipassisted-detail.jpg"
     },
     {
        "name":"Chest Fly",
        "category":"Chest",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"chestflymachine.png",
+       "image_detail":"chestflymachine-detail.jpg"
     },
     {
        "name":"Chest Fly",
        "category":"Chest",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"chestflyband.png",
+       "image_detail":"chestflyband-detail.jpg"
     },
     {
        "name":"Chest Fly",
        "category":"Chest",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"chestflydb.png",
+       "image_detail":"chestflydb-detail.jpg"
     },
     {
        "name":"Chest Fly",
        "category":"Chest",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"chestflyband.png",
+       "image_detail":"chestflyband-detail.jpg"
     },
     {
        "name":"Chest Press",
        "category":"Chest",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"chestpressmachine.png",
+       "image_detail":"chestpressmachine-detail.jpg"
     },
     {
        "name":"Chin Up",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"chinup.png",
+       "image_detail":"chinup-detail.jpg"
     },
     {
        "name":"Chin Up (Assisted)",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"chinupassisted.png",
+       "image_detail":"chinupassisted-detail.jpg"
     },
     {
        "name":"Clean",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"cleanbb.png",
+       "image_detail":"cleanbb-detail.jpg"
     },
     {
        "name":"Clean and Jerk",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"cleanandjerkbb.png",
+       "image_detail":"cleanandjerkbb-detail.jpg"
     },
     {
        "name":"Concentration Curl",
        "category":"Biceps",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"concentrationcurldb.png",
+       "image_detail":"concentrationcurldb-detail.jpg"
     },
     {
        "name":"Cross Body Crunch",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"crossbodycrunch.png",
+       "image_detail":"crossbodycrunch-detail.jpg"
     },
     {
        "name":"Crunch",
        "category":"Core",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"crunchmachine.png",
+       "image_detail":"crunchmachine-detail.jpg"
     },
     {
        "name":"Crunch",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"crunch.png",
+       "image_detail":"crunch-detail.jpg"
     },
     {
        "name":"Crunch (Stability Ball)",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"crunchstabilityball.png",
+       "image_detail":"crunchstabilityball-detail.jpg"
     },
     {
        "name":"Cycling",
        "category":"Cardio",
        "equipment": "",
-       "type":"time"
+       "type":"time",
+       "image":"cyclingindoor.png",
+       "image_detail":"cyclingindoor-detail.jpg"
     },
     {
        "name":"Deadlift",
        "category":"Back",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"deadliftband.png",
+       "image_detail":"deadliftband-detail.jpg"
     },
     {
        "name":"Deadlift",
        "category":"Back",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"deadliftbb.png",
+       "image_detail":"deadliftbb-detail.jpg"
     },
     {
        "name":"Deadlift",
        "category":"Back",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"deadliftdb.png",
+       "image_detail":"deadliftdb-detail.jpg"
     },
     {
        "name":"Deadlift High Pull",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"deadlifthighpullbb.png",
+       "image_detail":"deadlifthighpullbb-detail.jpg"
     },
     {
        "name":"Decline Bench Press",
        "category":"Chest",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"declinebenchpressdb.png",
+       "image_detail":"declinebenchpressdb-detail.jpg"
     },
     {
        "name":"Decline Bench Press",
        "category":"Chest",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"declinebenchpressbb.png",
+       "image_detail":"declinebenchpressbb-detail.jpg"
+    },
+    {
+        "name":"Decline Bench Press",
+        "category":"Chest",
+        "equipment":"Smith Machine",
+        "type":"weight",
+        "image":"declinebenchpresssmithmachine.png",
+        "image_detail":"declinebenchpresssmithmachine-detail.jpg"
     },
     {
        "name":"Decline Crunch",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"declinecrunch.png",
+       "image_detail":"declinecrunch-detail.jpg"
     },
     {
        "name":"Deficit Deadlift",
        "category":"Legs",
        "equipment":"Barbell",
-       "type":"weight"
-    },
-    {
-       "name":"Diamond Push Up",
-       "category":"Triceps",
-       "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"deficitdeadliftbb.png",
+       "image_detail":"deficitdeadliftbb-detail.jpg"
     },
     {
        "name":"Elliptical Machine",
        "category":"Cardio",
        "equipment": "",
-       "type":"time"
+       "type":"time",
+       "image":"ellipcticalmachine.png",
+       "image_detail":"ellipcticalmachine-detail.jpg"
     },
     {
        "name":"Face Pull",
        "category":"Back",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"facepullcable.png",
+       "image_detail":"facepullcable-detail.jpg"
     },
     {
        "name":"Flat Knee Raise",
        "category":"Core",
        "equipment": "" ,
-       "type":"weight"
+       "type":"weight",
+       "image":"flatkneeraise.png",
+       "image_detail":"flatkneeraise-detail.jpg"
     },
     {
        "name":"Flat Leg Raise",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"flatlegraise.png",
+       "image_detail":"flatlegraise-detail.jpg"
     },
     {
        "name":"Front Raise",
        "category":"Shoulders",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"frontraisedb.png",
+       "image_detail":"frontraisedb-detail.jpg"
     },
     {
        "name":"Front Raise",
        "category":"Shoulders",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"frontraisebb.png",
+       "image_detail":"frontraisebb-detail.jpg"
     },
     {
        "name":"Front Raise",
        "category":"Shoulders",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"frontraiseband.png",
+       "image_detail":"frontraiseband-detail.jpg"
     },
     {
        "name":"Front Raise",
        "category":"Shoulders",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"frontraisecable.png",
+       "image_detail":"frontraisecable-detail.jpg"
     },
     {
        "name":"Front Raise",
        "category":"Shoulders",
        "equipment":"Plate",
-       "type":"weight"
+       "type":"weight",
+       "image":"frontraiseplate.png",
+       "image_detail":"frontraiseplate-detail.jpg"
     },
     {
        "name":"Front Squat",
        "category":"Legs",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"frontsquatbb.png",
+       "image_detail":"frontsquatbb-detail.jpg"
     },
     {
        "name":"Goblet Squat",
        "category":"Legs",
        "equipment":"Kettlebell",
-       "type":"weight"
+       "type":"weight",
+       "image":"gobletsquatkettlebell.png",
+       "image_detail":"gobletsquatkettlebell-detail.jpg"
     },
     {
        "name":"Good Morning",
        "category":"Back",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"goodmorningbb.png",
+       "image_detail":"goodmorningbb-detail.jpg"
     },
     {
        "name":"Hack Squat",
        "category":"Legs",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"hacksquat.png",
+       "image_detail":"hacksquat-detail.jpg"
     },
     {
        "name":"Hammer Curl",
        "category":"Biceps",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"hammercurlband.png",
+       "image_detail":"hammercurlband-detail.jpg"
     },
     {
        "name":"Hammer Curl",
        "category":"Biceps",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"hammercurldb.png",
+       "image_detail":"hammercurldb-detail.jpg"
     },
     {
        "name":"Hammer Curl",
        "category":"Biceps",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"hammercurlcable.png",
+       "image_detail":"hammercurlcable-detail.jpg"
     },
     {
        "name":"Handstand Push Up",
        "category":"Shoulders",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"handstandpushup.png",
+       "image_detail":"handstandpushup-detail.jpg"
     },
     {
        "name":"Hang Snatch",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"hangsnatchbb.png",
+       "image_detail":"hangsnatchbb-detail.jpg"
     },
     {
        "name":"Hanging Knee Raise",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"hangingkneeraise.png",
+       "image_detail":"hangingkneeraise-detail.jpg"
     },
     {
        "name":"Hanging Leg Raise",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"hanginglegraise.png",
+       "image_detail":"hanginglegraise-detail.jpg"
     },
     {
        "name":"High Knee Skips",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"highkneeskips.png",
+       "image_detail":"highkneeskips-detail.jpg"
     },
     {
        "name":"Hip Abductor",
        "category":"Legs",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"hipabductormachine.png",
+       "image_detail":"hipabductormachine-detail.jpg"
     },
     {
        "name":"Hip Adductor",
        "category":"Legs",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"hipadductormachine.png",
+       "image_detail":"hipadductormachine-detail.jpg"
     },
     {
        "name":"Hip Thrust",
        "category":"Glutes",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"hipthrustbb.png",
+       "image_detail":"hipthrustbb-detail.jpg"
     },
     {
        "name":"Hip Thrust",
        "category":"Glutes",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"hipthrust.png",
+       "image_detail":"hipthrust-detail.jpg"
     },
     {
        "name":"Incline Bench Press",
        "category":"Chest",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"inclinebenchpress.png",
+       "image_detail":"inclinebenchpress-detail.jpg"
     },
     {
        "name":"Incline Bench Press",
        "category":"Chest",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"inclinebenchpressbb.png",
+       "image_detail":"inclinebenchpressbb-detail.jpg"
     },
     {
        "name":"Incline Bench Press",
        "category":"Chest",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"inclinebenchpressdb.png",
+       "image_detail":"inclinebenchpressdb-detail.jpg"
     },
     {
        "name":"Incline Chest Fly",
        "category":"Chest",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"inclinechestfly.png",
+       "image_detail":"inclinechestfly-detail.jpg"
     },
     {
        "name":"Incline Chest Press",
        "category":"Chest",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"inclinechestpressmachine.png",
+       "image_detail":"inclinechestpressmachine-detail.jpg"
+    },
+    {
+       "name":"Incline Chest Press",
+       "category":"Chest",
+       "equipment":"Smith Machine",
+       "type":"weight",
+       "image":"inclinebenchpresssmithmachine.png",
+       "image_detail":"inclinebenchpresssmithmachine-detail.jpg"
     },
     {
        "name":"Incline Curl",
        "category":"Biceps",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"inclinecurldb.png",
+       "image_detail":"inclinecurldb-detail.jpg"
     },
     {
        "name":"Incline Row",
        "category":"Back",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"inclinerowdb.png",
+       "image_detail":"inclinerowdb-detail.jpg"
     },
     {
        "name":"Inverted Row",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"invertrowbw.png",
+       "image_detail":"invertrowbw-detail.jpg"
     },
     {
        "name":"Iso-Lateral Chest Press",
        "category":"Chest",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"isolateralchestpress.png",
+       "image_detail":"isolateralchestpress-detail.jpg"
     },
     {
        "name":"Iso-Lateral Row",
        "category":"Back",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"isolateralrowmachine.png",
+       "image_detail":"isolateralrowmachine-detail.jpg"
     },
     {
        "name":"Jackknife Sit Up",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"jackknifesitup.png",
+       "image_detail":"jackknifesitup-detail.jpg"
     },
     {
        "name":"Jump Rope",
        "category":"Cardio",
        "equipment": "",
-       "type":"time"
+       "type":"time",
+       "image":"jumprope.png",
+       "image_detail":"jumprope-detail.jpg"
     },
     {
        "name":"Jump Squat",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"jumpsquat.png",
+       "image_detail":"jumpsquat-detail.jpg"
     },
     {
        "name":"Jumping Jack",
        "category":"Full Body",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"jumpingjack.png",
+       "image_detail":"jumpingjack-detail.jpg"
     },
     {
        "name":"Kettlebell Swing",
        "category":"Full Body",
        "equipment":"Kettlebell",
-       "type":"weight"
+       "type":"weight",
+       "image":"kettlebellswing.png",
+       "image_detail":"kettlebellswing-detail.jpg"
     },
+    {
+        "name":"Kettlebell Turkish Getup",
+        "category":"Full Body",
+        "equipment":"Kettlebell",
+        "type":"weight",
+        "image":"kettlebellturkishgetup.png",
+        "image_detail":"kettlebellturkishgetup-detail.jpg"
+     },
     {
        "name":"Knee Raise (Captain's Chair)",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"kneeraise.png",
+       "image_detail":"kneeraise-detail.jpg"
     },
     {
        "name":"Kneeling Pulldown",
        "category":"Back",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"kneelingpulldownband.png",
+       "image_detail":"kneelingpulldownband-detail.jpg"
     },
     {
        "name":"Knees to Elbows",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"kneestoelbows.png",
+       "image_detail":"kneestoelbows-detail.jpg"
     },
     {
        "name":"Lat Pulldown",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"latpulldown.png",
+       "image_detail":"latpulldown-detail.jpg"
     },
     {
        "name":"Lat Pulldown",
        "category":"Machine",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"latpulldownmachine.png",
+       "image_detail":"latpulldownmachine-detail.jpg"
     },
     {
        "name":"Lat Pulldown - Single Arm",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"latpulldownsinglearm.png",
+       "image_detail":"latpulldownsinglearm-detail.jpg"
     },
     {
        "name":"Lat Pulldown - Underhand",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"latpulldownunderhandband.png",
+       "image_detail":"latpulldownunderhandband-detail.jpg"
     },
     {
        "name":"Lat Pulldown - Wide Grip",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"latpulldownwidegripcable.png",
+       "image_detail":"latpulldownwidegripcable-detail.jpg"
     },
     {
        "name":"Lateral Box Jump",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"lateralboxjump.png",
+       "image_detail":"lateralboxjump-detail.jpg"
     },
     {
        "name":"Lateral Raise",
        "category":"Shoulders",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"lateralraisecable.png",
+       "image_detail":"lateralraisecable-detail.jpg"
     },
     {
        "name":"Lateral Raise",
        "category":"Shoulders",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"lateralraiseband.png",
+       "image_detail":"lateralraiseband-detail.jpg"
     },
     {
        "name":"Lateral Raise",
        "category":"Shoulders",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"lateralraisemachine.png",
+       "image_detail":"lateralraisemachine-detail.jpg"
     },
     {
        "name":"Lateral Raise",
        "category":"Shoulders",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"lateralraisedb.png",
+       "image_detail":"lateralraisedb-detail.jpg"
     },
     {
        "name":"Leg Curl",
        "category":"Legs",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"legcurlmachine.png",
+       "image_detail":"legcurlmachine-detail.jpg"
     },
     {
        "name":"Leg Extension",
        "category":"Legs",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"legextensionmachine.png",
+       "image_detail":"legextensionmachine-detail.jpg"
     },
+    {
+        "name":"Leg Press",
+        "category":"Legs",
+        "equipment":"Machine",
+        "type":"weight",
+        "image":"legpress.png",
+        "image_detail":"legpress-detail.jpg"
+     },
     {
        "name":"Lunge",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"lungebw.png",
+       "image_detail":"lungebw-detail.jpg"
     },
     {
        "name":"Lunge",
        "category":"Legs",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"lungedb.png",
+       "image_detail":"lungedb-detail.jpg"
     },
     {
        "name":"Lunge",
        "category":"Legs",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"lungebb.png",
+       "image_detail":"lungebb-detail.jpg"
     },
     {
        "name":"Lying Leg Curl",
        "category":"Legs",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"lyinglegcurl.png",
+       "image_detail":"lyinglegcurl-detail.jpg"
     },
     {
        "name":"Mountain Climber",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"mountainclimber.png",
+       "image_detail":"mountainclimber-detail.jpg"
+    },
+    {
+        "name":"Muscle Up",
+        "category":"Full Body",
+        "equipment": "",
+        "type":"weight",
+        "image":"muscleup.png",
+        "image_detail":"muscleup-detail.jpg"
     },
     {
        "name":"Oblique Crunch",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Muscle Up",
-       "category":"Full Body",
-       "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"obliquecrunch.png",
+        "image_detail":"obliquecrunch-detail.jpg"
     },
     {
        "name":"Overhead Press",
        "category":"Shoulders",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"overheadpressbb.png",
+        "image_detail":"overheadpressbb-detail.jpg"
     },
     {
        "name":"Overhead Press",
        "category":"Shoulders",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"overheadpressdb.png",
+        "image_detail":"overheadpressdb-detail.jpg"
     },
     {
        "name":"Overhead Press",
        "category":"Shoulders",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"overheadpresscable.png",
+        "image_detail":"overheadpresscable-detail.jpg"
     },
     {
        "name":"Overhead Press",
        "category":"Shoulders",
-       "equipment":"Band",
-       "type":"weight"
+       "equipment":"Smith Machine",
+       "type":"weight",
+       "image":"overheadpresssmithmachine.png",
+        "image_detail":"overheadpresssmithmachine-detail.jpg"
     },
     {
        "name":"Overhead Squat",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
-    },
-    {
-       "name":"Overhead Triceps Extension",
-       "category":"Triceps",
-       "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"overheadsquatbb.png",
+       "image_detail":"overheadsquatbb-detail.jpg"
     },
     {
        "name":"Pec Deck",
        "category":"Chest",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"pecdeckmachine.png",
+       "image_detail":"pecdeckmachine-detail.jpg"
     },
     {
        "name":"Pendlay Row",
        "category":"Back",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"pendlayrowbb.png",
+       "image_detail":"pendlayrowbb-detail.jpg"
     },
     {
        "name":"Pistol Squat",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"pistolsquat.png",
+       "image_detail":"pistolsquat-detail.jpg"
     },
     {
        "name":"Plank",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Power Clean",
-       "category":"Olympic",
-       "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"plank.png",
+       "image_detail":"plank-detail.jpg"
     },
     {
        "name":"Power Snatch",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"powersnatchbb.png",
+       "image_detail":"powersnatchbb-detail.jpg"
     },
     {
        "name":"Preacher Curl",
        "category":"Biceps",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"preachercurlmachine.png",
+       "image_detail":"preachercurlmachine-detail.jpg"
     },
     {
        "name":"Preacher Curl",
        "category":"Biceps",
        "equipment":"Barbell",
-       "type":"weight"
-    },
-    {
-       "name":"Preacher Curl",
-       "category":"Biceps",
-       "equipment":"EZ Bar",
-       "type":"weight"
+       "type":"weight",
+       "image":"preachercurlbb.png",
+       "image_detail":"preachercurlbb-detail.jpg"
     },
     {
        "name":"Preacher Curl",
        "category":"Biceps",
        "equipment":"Dumbbell",
-       "type":"weight"
-    },
-    {
-       "name":"Press Under",
-       "category":"Olympic",
-       "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"preachercurl.png",
+       "image_detail":"preachercurl-detail.jpg"
     },
     {
        "name":"Pull Up",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"pullup.png",
+       "image_detail":"pullup-detail.jpg"
     },
     {
        "name":"Pull Up",
        "category":"Back",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"pullupband.png",
+       "image_detail":"pullupband-detail.jpg"
     },
     {
        "name":"Pull Up - Assisted",
        "category":"Back",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"pullupassisted.png",
+       "image_detail":"pullupassisted-detail.jpg"
     },
     {
        "name":"Pull Up - Wide Grip",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"pullup.png",
+       "image_detail":"pullup-detail.jpg"
     },
     {
        "name":"Pullover",
        "category":"Chest",
        "equipment":"Dumbbell",
-       "type":"weight"
-    },
-    {
-       "name":"Pullover",
-       "category":"Chest",
-       "equipment":"Machine",
-       "type":"weight"
-    },
-    {
-       "name":"Pulse Squat",
-       "category":"Legs",
-       "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"pulloverdb.png",
+       "image_detail":"pulloverdb-detail.jpg"
     },
     {
        "name":"Push Press",
        "category":"Shoulders",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"pushpress.png",
+       "image_detail":"pushpress-detail.jpg"
     },
     {
        "name":"Push Up",
        "category":"Chest",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"pushup.png",
+       "image_detail":"pushup-detail.jpg"
     },
     {
        "name":"Push Up - Knees",
        "category":"Chest",
        "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Rack Pull",
-       "category":"Back",
-       "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"pushupknees.png",
+       "image_detail":"pushupknees-detail.jpg"
     },
     {
        "name":"Reverse Crunch",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"reversecrunch.png",
+       "image_detail":"reversecrunch-detail.jpg"
     },
     {
        "name":"Reverse Curl",
        "category":"Biceps",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"reversecurlbb.png",
+       "image_detail":"reversecurlbb-detail.jpg"
     },
     {
        "name":"Reverse Curl",
        "category":"Biceps",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"reversecurldb.png",
+       "image_detail":"reversecurldb-detail.jpg"
     },
     {
        "name":"Reverse Curl",
        "category":"Biceps",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"reversecurlband.png",
+       "image_detail":"reversecurlband-detail.jpg"
     },
     {
        "name":"Reverse Fly",
        "category":"Back",
        "equipment":"Machine",
-       "type":"weight"
-    },
-    {
-       "name":"Reverse Fly",
-       "category":"Back",
-       "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"reversefly.png",
+       "image_detail":"reversefly-detail.jpg"
     },
     {
        "name":"Reverse Fly",
        "category":"Back",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"reverseflydb.png",
+       "image_detail":"reverseflydb-detail.jpg"
     },
     {
        "name":"Reverse Grip Concentration Curl",
        "category":"Biceps",
        "equipment":"Dumbbell",
-       "type":"weight"
-    },
-    {
-       "name":"Reverse Lunge",
-       "category":"Legs",
-       "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Reverse Lunge",
-       "category":"Legs",
-       "equipment":"Barbell",
-       "type":"weight"
-    },
-    {
-       "name":"Reverse Lunge",
-       "category":"Legs",
-       "equipment":"Dumbbell",
-       "type":"weight"
-    },
-    {
-       "name":"Reverse Plank",
-       "category":"Core",
-       "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Romanian Deadlift",
-       "category":"Back",
-       "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"reversegripconcentrationcurldb.png",
+       "image_detail":"reversegripconcentrationcurldb-detail.jpg"
     },
     {
        "name":"Romanian Deadlift",
        "category":"Back",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"romaniandeadliftdb.png",
+       "image_detail":"romaniandeadliftdb-detail.jpg"
     },
     {
        "name":"Rowing",
        "category":"Cardio",
        "equipment": "",
-       "type":"time"
+       "type":"time",
+       "image":"rowingmachine.png",
+       "image_detail":"rowingmachine-detail.jpg"
     },
     {
        "name":"Running",
        "category":"Cardio",
        "equipment": "",
-       "type":"time"
+       "type":"time",
+       "image":"running.png",
+       "image_detail":"running-detail.jpg"
+    },
+    {
+        "name":"Running",
+       "category":"Cardio",
+       "equipment": "Machine",
+       "type":"time",
+       "image":"runningtreadmill.png",
+       "image_detail":"runningtreadmill-detail.jpg"
     },
     {
        "name":"Russian Twist",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Seated Calf Raise",
-       "category":"Calves",
-       "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"russiantwist.png",
+       "image_detail":"russiantwist-detail.jpg"
     },
     {
        "name":"Seated Calf Raise",
        "category":"Calves",
        "equipment":"Plate Loaded",
-       "type":"weight"
-    },
-    {
-       "name":"Seated Leg Curl",
-       "category":"Legs",
-       "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"seatedcalfraise.png",
+       "image_detail":"seatedcalfraise-detail.jpg"
     },
     {
        "name":"Seated Leg Press",
        "category":"Legs",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"seatedlegpressmachine.png",
+       "image_detail":"seatedlegpressmachine-detail.jpg"
     },
     {
        "name":"Seated Overhead Press",
        "category":"Shoulders",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"seatedoverheadpressbb.png",
+       "image_detail":"seatedoverheadpressbb-detail.jpg"
     },
     {
        "name":"Seated Overhead Press",
        "category":"Shoulders",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"seatedoverheadpressdb.png",
+       "image_detail":"seatedoverheadpressdb-detail.jpg"
     },
     {
        "name":"Seated Palms Up Wrist Curl",
        "category":"Forearms",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"seatedpalmsupwristcurl.png",
+       "image_detail":"seatedpalmsupwristcurl-detail.jpg"
     },
     {
        "name":"Seated Row",
        "category":"Back",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"seatedrow.png",
+       "image_detail":"seatedrow-detail.jpg"
     },
     {
        "name":"Seated Row",
        "category":"Back",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"seatedrowmachine.png",
+       "image_detail":"seatedrowmachine-detail.jpg"
     },
     {
        "name":"Seated Row - Wide Grip",
        "category":"Back",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"seatedwidegriprowcable.png",
+       "image_detail":"seatedwidegriprowcable-detail.jpg"
     },
     {
        "name":"Shoulder Press",
        "category":"Shoulders",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"shoulderpressmachine.png",
+       "image_detail":"shoulderpressmachine-detail.jpg"
     },
     {
        "name":"Shoulder Press",
        "category":"Shoulders",
        "equipment":"Plate Loaded",
-       "type":"weight"
+       "type":"weight",
+       "image":"shoulderpressplateloaded.png",
+       "image_detail":"shoulderpressplateloaded-detail.jpg"
     },
     {
        "name":"Shrug",
        "category":"Shoulders",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"shrugmachine.png",
+       "image_detail":"shrugmachine-detail.jpg"
     },
+    {
+        "name":"Shrug",
+        "category":"Shoulders",
+        "equipment":"Smith Machine",
+        "type":"weight",
+        "image":"shrugsmithmachine.png",
+        "image_detail":"shrugsmithmachine-detail.jpg"
+     },
     {
        "name":"Shrug",
        "category":"Shoulders",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"shrugbb.png",
+       "image_detail":"shrugbb-detail.jpg"
     },
     {
        "name":"Shrug",
        "category":"Shoulders",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"shrugdb.png",
+       "image_detail":"shrugdb-detail.jpg"
     },
     {
        "name":"Side Bend",
        "category":"Core",
        "equipment":"Band",
-       "type":"weight"
+       "type":"weight",
+       "image":"sidebend.png",
+       "image_detail":"sidebend-detail.jpg"
     },
     {
        "name":"Side Bend",
        "category":"Core",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"sidebendcable.png",
+       "image_detail":"sidebendcable-detail.jpg"
     },
     {
        "name":"Side Bend",
        "category":"Core",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"sidebenddb.png",
+       "image_detail":"sidebenddb-detail.jpg"
     },
     {
        "name":"Side Plank",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"sideplank.png",
+       "image_detail":"sideplank-detail.jpg"
     },
     {
        "name":"Single Leg Bridge",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"singlelegbridge.png",
+       "image_detail":"singlelegbridge-detail.jpg"
     },
     {
        "name":"Sit Ups",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"situp.png",
+       "image_detail":"situp-detail.jpg"
     },
     {
        "name":"Skullcrusher",
        "category":"Triceps",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"skullcrusherbb.png",
+       "image_detail":"skullcrusherbb-detail.jpg"
     },
     {
        "name":"Skullcrusher",
        "category":"Triceps",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"skullcrusherdb.png",
+       "image_detail":"skullcrusherdb-detail.jpg"
     },
     {
        "name":"Snatch",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"snatchbb.png",
+       "image_detail":"snatchbb-detail.jpg"
     },
     {
        "name":"Snatch Pull",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"snatchpullbb.png",
+       "image_detail":"snatchpullbb-detail.jpg"
     },
     {
        "name":"Split Jerk",
        "category":"Olympic",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"splitjerkbb.png",
+       "image_detail":"splitjerkbb-detail.jpg"
     },
     {
        "name":"Squat",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"squatbw.png",
+       "image_detail":"squatbw-detail.jpg"
     },
     {
        "name":"Squat",
        "category":"Legs",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"squatbb.png",
+       "image_detail":"squatbb-detail.jpg"
     },
     {
-       "name":"Squat - Elevated Heels",
+       "name":"Squat",
        "category":"Legs",
-       "equipment":"Barbell",
-       "type":"weight"
+       "equipment":"Machine",
+       "type":"weight",
+       "image":"squatemachine.png",
+       "image_detail":"squatemachine-detail.jpg"
+    },
+    {
+        "name":"Squat",
+        "category":"Legs",
+        "equipment":"Smith Machine",
+        "type":"weight",
+        "image":"squatsmithmachine.png",
+        "image_detail":"squatsmithmachine-detail.jpg"
+    },
+    {
+        "name":"Squat",
+        "category":"Legs",
+        "equipment":"Band",
+        "type":"weight",
+        "image":"squatband.png",
+        "image_detail":"squatband-detail.jpg"
     },
     {
        "name":"Squat",
        "category":"Legs",
        "equipment":"Dumbbell",
-       "type":"weight"
-    },
-    {
-       "name":"Squat Steps",
-       "category":"Legs",
-       "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"squatdb.png",
+       "image_detail":"squatdb-detail.jpg"
     },
     {
        "name":"Standing Calf Raise",
        "category":"Calves",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"standingcalfraisebw.png",
+       "image_detail":"standingcalfraisebw-detail.jpg"
     },
     {
        "name":"Standing Calf Raise",
        "category":"Calves",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"standingcalfraisebb.png",
+       "image_detail":"standingcalfraisebb-detail.jpg"
     },
     {
        "name":"Standing Calf Raise",
        "category":"Calves",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"standingcalfraisedb.png",
+       "image_detail":"standingcalfraisedb-detail.jpg"
     },
     {
        "name":"Standing Calf Raise",
        "category":"Calves",
        "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"standingcalfraisemachine.png",
+       "image_detail":"standingcalfraisemachine-detail.jpg"
+    },
+    {
+        "name":"Standing Calf Raise",
+        "category":"Calves",
+        "equipment":"Smith Machine",
+        "type":"weight",
+        "image":"standingcalfraisesmithmachine.png",
+        "image_detail":"standingcalfraisesmithmachine-detail.jpg"
     },
     {
        "name":"Step-Up",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"stepup.png",
+        "image_detail":"stepup-detail.jpg"
+    },
+    {
+        "name":"Step-Up",
+        "category":"Legs",
+        "equipment": "Dumbbell",
+        "type":"weight",
+        "image":"stepupdb.png",
+        "image_detail":"stepupdb-detail.jpg"
     },
     {
        "name":"Stiff Leg Deadlift",
        "category":"Legs",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"stifflegdeadliftbb.png",
+       "image_detail":"stifflegdeadliftbb-detail.jpg"
     },
     {
        "name":"Stiff Leg Deadlift",
        "category":"Legs",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"stifflegdeadliftdb.png",
+       "image_detail":"stifflegdeadliftdb-detail.jpg"
     },
     {
-       "name":"Straight Arm Pulldown",
-       "category":"Back",
-       "equipment":"Cable",
-       "type":"weight"
+       "name":"Straight Leg Deadlift",
+       "category":"Legs",
+       "equipment":"Band",
+       "type":"weight",
+       "image":"straightlegdeadliftband.png",
+       "image_detail":"straightlegdeadliftband-detail.jpg"
     },
     {
        "name":"Stretching",
        "category":"Other",
        "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Strict Military Press",
-       "category":"Shoulders",
-       "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"stretching.png",
+       "image_detail":"stretching-detail.jpg"
     },
     {
        "name":"Sumo Deadlift",
        "category":"Legs",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"sumodeadliftbb.png",
+       "image_detail":"sumodeadliftbb-detail.jpg"
     },
     {
        "name":"Sumo Deadlift High Pull",
        "category":"Full Body",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"sumodeadlifthighpullbb.png",
+       "image_detail":"sumodeadlifthighpullbb-detail.jpg"
     },
     {
        "name":"Superman",
-       "category":"Core",
+       "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"superman.png",
+       "image_detail":"superman-detail.jpg"
     },
     {
        "name":"T Bar Row",
        "category":"Back",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"tbarrow.png",
+       "image_detail":"tbarrow-detail.jpg"
     },
     {
        "name":"Thruster",
        "category":"Full Body",
        "equipment":"Kettlebell",
-       "type":"weight"
-    },
-    {
-       "name":"Thruster",
-       "category":"Full Body",
-       "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"thrusterkettlebell.png",
+       "image_detail":"thrusterkettlebell-detail.jpg"
     },
     {
        "name":"Toes To Bar",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Torso Rotation",
-       "category":"Core",
-       "equipment":"Machine",
-       "type":"weight"
+       "type":"weight",
+       "image":"toestobar.png",
+       "image_detail":"toestobar-detail.jpg"
     },
     {
        "name":"Trap Bar Deadlift",
        "category":"Legs",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"trapbardeadlift.png",
+       "image_detail":"trapbardeadlift-detail.jpg"
     },
     {
        "name":"Triceps Dip",
        "category":"Triceps",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"tricepsdip.png",
+       "image_detail":"tricepsdip-detail.jpg"
     },
     {
        "name":"Triceps Dip - Assisted",
        "category":"Triceps",
        "equipment":"Machine",
-       "type":"weight"
-    },
-    {
-       "name":"Triceps Extension",
-       "category":"Triceps",
-       "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"tricepsdipassisted.png",
+       "image_detail":"tricepsdipassisted-detail.jpg"
     },
     {
        "name":"Triceps Extension",
        "category":"Triceps",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"tricepsextensionbb.png",
+       "image_detail":"tricepsextensionbb-detail.jpg"
     },
     {
        "name":"Triceps Extension",
        "category":"Triceps",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"tricepsextension.png",
+       "image_detail":"tricepsextension-detail.jpg"
     },
     {
        "name":"Triceps Extension",
        "category":"Triceps",
        "equipment":"Dumbbell",
-       "type":"weight"
-    },
-    {
-       "name":"Triceps Extension - Single Arm",
-       "category":"Triceps",
-       "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"tricepsextensiondb.png",
+       "image_detail":"tricepsextensiondb-detail.jpg"
     },
     {
        "name":"Triceps Pushdown",
        "category":"Triceps",
-       "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Turkish Get Up",
-       "category":"Full Body",
-       "equipment":"Kettlebell",
-       "type":"weight"
+       "equipment": "Cable",
+       "type":"weight",
+       "image":"tricepspushdowncable.png",
+       "image_detail":"tricepspushdowncable-detail.jpg"
     },
     {
        "name":"Upright Row",
        "category":"Shoulders",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"uprightrowbb.png",
+       "image_detail":"uprightrowbb-detail.jpg"
     },
     {
        "name":"Upright Row",
        "category":"Shoulders",
        "equipment":"Cable",
-       "type":"weight"
+       "type":"weight",
+       "image":"uprightrowcable.png",
+       "image_detail":"uprightrowcable-detail.jpg"
     },
     {
        "name":"Upright Row",
        "category":"Shoulders",
        "equipment":"Dumbbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"uprightrowdb.png",
+       "image_detail":"uprightrowdb-detail.jpg"
     },
     {
        "name":"V Up",
        "category":"Core",
        "equipment": "",
-       "type":"weight"
-    },
-    {
-       "name":"Walking",
-       "category":"Cardio",
-       "equipment": "",
-       "type":"time"
+       "type":"weight",
+       "image":"vup.png",
+       "image_detail":"vup-detail.jpg"
     },
     {
        "name":"Wrist Roller",
        "category":"Forearms",
        "equipment": "",
-       "type":"weight"
+       "type":"weight",
+       "image":"wristroller.png",
+       "image_detail":"wristroller-detail.jpg"
     },
     {
        "name":"Zercher Squat",
        "category":"Legs",
        "equipment":"Barbell",
-       "type":"weight"
+       "type":"weight",
+       "image":"zerchersquatbb.png",
+       "image_detail":"zerchersquatbb-detail.jpg"
     }
  ]

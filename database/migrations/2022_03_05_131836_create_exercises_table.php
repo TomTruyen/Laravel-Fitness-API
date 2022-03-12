@@ -19,6 +19,8 @@ class CreateExercisesTable extends Migration
             $table->string('category');
             $table->string('equipment');
             $table->string('type');
+            $table->string('image')->nullable();
+            $table->string('image_detail')->nullable();
             $table->timestamps();
         });
     }

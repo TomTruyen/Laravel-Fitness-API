@@ -14,7 +14,7 @@ class Exercise extends Model
      *
      * @var string[]
      */
-    protected $fillable = ['name', 'category', 'equipment', 'type'];
+    protected $fillable = ['name', 'category', 'equipment', 'type', 'image', 'image_detail'];
 
     /**
      * The attributes that should be hidden for serialization.

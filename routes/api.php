@@ -22,6 +22,7 @@ Route::middleware(['auth:sanctum', 'throttle:10'])->group(function() {
         Route::group(['prefix'  =>  'exercises'], function () {
             Route::get('/', [ExerciseController::class, 'index']);
             Route::get('/{id}', [ExerciseController::class, 'show']);
+            Route::get('/image/{id}', [ExerciseController::class, 'image']);
         });
 
         Route::group(['prefix'  =>  'categories'], function () {

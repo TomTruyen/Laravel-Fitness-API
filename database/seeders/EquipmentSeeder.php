@@ -16,6 +16,7 @@ class EquipmentSeeder extends Seeder
         'EZ Bar',
         'Kettlebell',
         'Machine',
+        'Smith Machine',
         'Other',
     ];
 

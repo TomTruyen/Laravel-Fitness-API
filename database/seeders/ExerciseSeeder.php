@@ -29,6 +29,8 @@ class ExerciseSeeder extends Seeder
                     'category' => $exercise['category'],
                     'equipment' => $exercise['equipment'],
                     'type' => $exercise['type'],
+                    'image' => $exercise['image'],
+                    'image_detail' => $exercise['image_detail'],
                 ],
             );
         }

@@ -123,6 +123,52 @@ paths:
           description: Server error
       security:
         - bearerAuth: []
+  /v1/exercises/image/{id}:
+    get:
+      tags:
+        - Exercises
+      summary: Get image by exercise id
+      operationId: exercise_image
+      parameters:
+        - name: id
+          in: path
+          description: Id of exercise
+          required: true
+          style: simple
+          explode: false
+          schema:
+            type: integer
+        - name: detail
+          in: query
+          description: Request detail image (true). Default = false
+          required: false
+          style: form
+          explode: true
+          schema:
+            type: boolean
+      responses:
+        "200":
+          description: Success
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Exercise"
+        "401":
+          description: Unauthenticated
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Unauthenticated"
+        "404":
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/NotFound"
+        "500":
+          description: Server error
+      security:
+        - bearerAuth: []
   /v1/categories:
     get:
       tags:
